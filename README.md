@@ -1,5 +1,11 @@
 # Bank-Loan-Performance-Report
-A comprehensive Power BI dashboard for financial loan analysis. Features interactive insights into loan funding, repayment performance, and credit risk metrics using DAX and advanced data visualization.
+
+For a high-quality GitHub repository, you should have two types of descriptions: a short one for the repository "About" section and a detailed one for your README.md.
+Based on the data I found in your file (like Total Funded Amount, Interest Rates, and Loan Grades), here is what I recommend:
+1. GitHub "About" Section (Short & SEO Friendly)
+"A comprehensive Power BI dashboard for financial loan analysis. Features interactive insights into loan funding, repayment performance, and credit risk metrics using DAX and advanced data visualization."
+2. README.md Description (Detailed & Professional)
+You can copy and paste this structure into your README.md file to make it look professional:
 📊 Financial Loan Intelligence Report
 📝 Project Overview
 This project provides a data-driven analysis of a banking institution's loan portfolio. The primary goal is to monitor and assess loan applications, funding trends, and repayment health to support strategic decision-making and risk management.
